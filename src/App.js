@@ -9,7 +9,10 @@ function App() {
         <h1>Hello World!!! from React on OpenShift!</h1>
         <h1>Hello World!!! from React on OpenShift!</h1>
         <h1>Hello World!!! from React on OpenShift!</h1>
-        
+
+        <h1>Hello World!!! from React on OpenShift!</h1>
+        <h1>Hello World!!! from React on OpenShift!</h1>
+
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
