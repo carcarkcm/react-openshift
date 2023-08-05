@@ -7,6 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello World!!! from React on OpenShift!</h1>
+        <h1>Hello World!!! from React on OpenShift!</h1>
+        <h1>Hello World!!! from React on OpenShift!</h1>
+        
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
